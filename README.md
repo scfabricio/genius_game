@@ -7,14 +7,19 @@
   />
 </p>
 
-Uma releitura do clásico **Genius Game** feita em Flutter.
-
 # :rocket: Tecnologias utilizadas
 Nesse projeto foram utilizadas as seguintes tecnologias:
 
 * [Flutter Provider](https://pub.dev/packages/provider) - Para gerência de stado
 * [Animations](https://flutter.dev/docs/development/ui/animations)
 * [sqflite](https://pub.dev/packages/sqflite) - Para utilizar os recursos do banco de dados relacional SQLite
+
+# :computer: Projeto
+Consiste em desenvolver uma releitura do clásico **Genius Game** para plataforma mobile.
+
+Deve ser construído com o framework Flutter, permitindo o usuário avançar de nível a medida que aumenta a combinação de cores, exigindo maior memório do player.
+
+O Max Score deve ser salvo na memória do dispisitivo para que esteja sempre disponível durante o jogo. Permitindo a competição e desejo de superar-se.
 
 ## Getting Started
 
