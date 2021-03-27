@@ -1,11 +1,11 @@
 # Genius Game
 
-<div style="text-align:center">
+<p align="center">
   <img 
     height=500
     src="blob/preview.gif"
   />
-</div>
+</p>
 
 Uma releitura do clásico **Genius Game** feita em Flutter.
 
